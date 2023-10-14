@@ -1,4 +1,4 @@
-##To compile linux drivers
+#To compile linux drivers
 
 1 - You must have a correct environment with the linux headers for your kernel or for the kernel you are compiling the driver maybe you are crosscompiling the driver
 	thing that I don't know it is possible.
